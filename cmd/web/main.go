@@ -1,9 +1,9 @@
 package main
 
-import(
+import (
 	"log"
 )
 
-func main()  {
-	log.Print("Starting web")	
+func main() {
+	log.Print("Starting web")
 }
